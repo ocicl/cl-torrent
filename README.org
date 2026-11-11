@@ -1,0 +1,9 @@
+* cl-torrent
+
+A transport-independent BitTorrent v2 library for Common Lisp.
+
+|---------+-----------------------------------------------------------------------------------+
+| source  | git:https://github.com/atgreen/cl-torrent.git                                     |
+| commit  | 0000000                                                                           |
+| systems | cl-torrent cl-torrent/tcp cl-torrent/tls cl-torrent/tracker-http cl-torrent/ag-grpc |
+|---------+-----------------------------------------------------------------------------------+
